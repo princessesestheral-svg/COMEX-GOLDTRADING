@@ -1,0 +1,30 @@
+{
+  "name": "COMEX GOLD TRADE",
+  "short_name": "COMEX",
+  "description": "Myanmar's Premier Digital Gold Trading Platform",
+  "start_url": "./user.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0e0e16",
+  "theme_color": "#ffd560",
+  "orientation": "portrait-primary",
+  "lang": "en",
+  "categories": ["finance", "business"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "related_applications": [],
+  "prefer_related_applications": false
+}
